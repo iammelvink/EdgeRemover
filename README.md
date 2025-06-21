@@ -8,7 +8,7 @@
 
 ## Credit to
 
-[@he3als](https://github.com/he3als)
+[@he3als](https://github.com/he3als/EdgeRemover)
 
 ## 🎉 Features
 
@@ -20,7 +20,7 @@
 
 ## ⬇️ Usage
 
-You can use the command below in `Command Prompt` to launch the script.
+You can use the commands below in `Command Prompt` to launch the script.
 
 ```powershell
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "& ([ScriptBlock]::Create((irm https://cdn.jsdelivr.net/gh/iammelvink/EdgeRemover@main/get.ps1)))"
