@@ -26,7 +26,7 @@
 	When combined with other parameters, this does not prompt the user for anything.
 
 	.LINK
-	https://github.com/he3als/EdgeRemover
+	https://github.com/iammelvink/EdgeRemover
 #>
 
 param (
