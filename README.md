@@ -6,10 +6,6 @@
 
 ---
 
-## Credit to
-
-[@he3als](https://github.com/he3als/EdgeRemover)
-
 ## 🎉 Features
 
 - Remove Edge with its own uninstaller, meaning there aren't leftovers, alongside no breakage as nothing is hardcoded
@@ -76,6 +72,10 @@ If Edge won't uninstall, try:
 - [Xyueta](https://github.com/Xyueta) - minor bug fixes
 - [ave9858](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6) - inspired this script
 - [h3r0](https://github.com/melo936) - notified me about the 'windir' method in the script
+
+### Credit to
+
+[@he3als](https://github.com/he3als/EdgeRemover)
 
 ## More Stuff
 
